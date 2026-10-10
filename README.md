@@ -2,7 +2,7 @@
 
 A four-page interactive Power BI report on the Sample Superstore retail dataset, covering sales, profitability, customers and shipping, with year-over-year comparisons and slicers for Year, Region and Segment.
 
-![Overview page]<img width="2075" height="1200" alt="Superstore_page-0001" src="https://github.com/user-attachments/assets/f5bba5a8-82b6-45cf-a2e8-608caee54a6a" />
+<img width="2075" height="1200" alt="Superstore_page-0001" src="https://github.com/user-attachments/assets/f5bba5a8-82b6-45cf-a2e8-608caee54a6a" />
 
 
 ## Key findings (2017)
@@ -27,22 +27,26 @@ A four-page interactive Power BI report on the Sample Superstore retail dataset,
 ### 1. Overview
 Headline KPIs with prior-year deltas, monthly sales vs prior year, sales by category, state and segment, and profit by sub-category.
 
-![Overview page](images/overview.png)
+<img width="2075" height="1200" alt="Superstore_page-0001" src="https://github.com/user-attachments/assets/278e6ba4-89cb-4608-af4c-70ebe7de6646" />
+
 
 ### 2. Products
 Sales vs margin scatter by sub-category, profit margin by discount band, a category and sub-category matrix with YoY growth, and the top 10 products by sales.
 
-![Products page](images/products.png)
+<img width="2075" height="1200" alt="Superstore_page-0002" src="https://github.com/user-attachments/assets/a13dc50d-03fe-4459-8aa5-b963bd6763ec" />
+
 
 ### 3. Customers
 Customer count, sales and orders per customer, new vs returning customers by quarter, sales and profit by region, top 10 customers and a state league table.
 
-![Customers page](images/customers.png)
+<img width="1312" height="732" alt="Superstore_page-0003" src="https://github.com/user-attachments/assets/a052a16f-c80b-42f3-b1a8-54a097b5db9d" />
+
 
 ### 4. Shipping
 Orders by weekday and ship mode, average days to ship by mode (3.9 days overall, from 0.1 for Same Day to 5.0 for Standard Class), ship mode mix by segment, and monthly orders vs prior year.
 
-![Shipping page](images/shipping.png)
+<img width="2075" height="1200" alt="Superstore_page-0004" src="https://github.com/user-attachments/assets/906e23b0-a06c-479a-8e93-ecb7b56df00f" />
+
 
 ## Features
 
@@ -52,23 +56,10 @@ Orders by weekday and ship mode, average days to ship by mode (3.9 days overall,
 - Conditional colouring for loss-making products and discount bands
 - Bubble maps for sales and customers by state
 
-## Repository structure
 
-```
-├── Superstore.pbix      # Power BI report
-├── Superstore.pdf       # Static export of all four pages
-├── images/              # Page screenshots used in this README
-└── README.md
-```
 
 ## How to open it
 
-1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Windows, free).
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/asamad252/Power-BI-Store-Analysis.git
-   ```
-3. Open `Superstore.pbix` in Power BI Desktop.
 
 No Power BI? Open `Superstore.pdf` for a static view of every page.
 
@@ -80,7 +71,3 @@ Sample Superstore: order-line data for a fictional US retailer, with order and s
 
 Power BI Desktop · Power Query · DAX
 
-## Author
-
-**asamad252** — [GitHub](https://github.com/asamad252)
-"# Power-BI-Store-Analysis" 
