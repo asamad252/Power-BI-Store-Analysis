@@ -2,7 +2,8 @@
 
 A four-page interactive Power BI report on the Sample Superstore retail dataset, covering sales, profitability, customers and shipping, with year-over-year comparisons and slicers for Year, Region and Segment.
 
-![Overview page](images/overview.png)
+![Overview page]<img width="2075" height="1200" alt="Superstore_page-0001" src="https://github.com/user-attachments/assets/f5bba5a8-82b6-45cf-a2e8-608caee54a6a" />
+
 
 ## Key findings (2017)
 
